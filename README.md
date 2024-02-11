@@ -1,3 +1,3 @@
 # Arcade Examples
 
-Examples for Arcade.
+Examples for Python Arcade.
