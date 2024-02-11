@@ -104,24 +104,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# time_passed = 0
-# while running:
-#     for event in pygame.event.get():
-#         if event.type == pygame.QUIT:
-#             running = False
-
-#     dt = clock.tick(60) / 1000
-#     screen.fill("white")
-
-#     pygame.draw.rect(screen, "black", (bar.x, bar.y, bar.w, bar.h))
-#     pygame.draw.circle(screen, "black", (ball.x, ball.y), 5)
-#     pygame.display.flip()
-
-#     if time_passed < sleep_seconds:
-#         time_passed += dt
-#         continue
-
-
-# pygame.quit()
