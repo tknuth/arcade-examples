@@ -1,3 +1,3 @@
-# PyGame Examples
+# Arcade Examples
 
-Examples for PyGame.
+Examples for Arcade.
